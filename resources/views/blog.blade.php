@@ -1,0 +1,2 @@
+<livewire:counter />
+@livewireScripts
